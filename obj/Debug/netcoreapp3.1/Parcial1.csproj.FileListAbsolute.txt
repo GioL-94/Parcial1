@@ -1,0 +1,13 @@
+C:\Users\lucia\source\repos\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.exe
+C:\Users\lucia\source\repos\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.deps.json
+C:\Users\lucia\source\repos\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.runtimeconfig.json
+C:\Users\lucia\source\repos\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.runtimeconfig.dev.json
+C:\Users\lucia\source\repos\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.dll
+C:\Users\lucia\source\repos\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.pdb
+C:\Users\lucia\source\repos\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.csprojAssemblyReference.cache
+C:\Users\lucia\source\repos\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.AssemblyInfo.cs
+C:\Users\lucia\source\repos\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.dll
+C:\Users\lucia\source\repos\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.pdb
+C:\Users\lucia\source\repos\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.genruntimeconfig.cache
